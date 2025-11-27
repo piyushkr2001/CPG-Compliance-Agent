@@ -1,0 +1,3 @@
+[server]
+# Switches to polling to avoid PyTorch/Watchdog crashes on Windows
+fileWatcherType = "poll"
