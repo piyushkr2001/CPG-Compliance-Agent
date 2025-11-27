@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+faiss-cpu
+pymupdf
+httpx
+pillow
+pandas
+plotly
+fpdf
+SpeechRecognition
